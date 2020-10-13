@@ -1,0 +1,33 @@
+.place-order-details {
+    background-color: #e0dddd;
+    padding: 30px;
+    border-radius: 10px;
+}
+.shop-buyer-adress {
+    background-color: white;
+    border-radius: 10px;
+    padding: 10px;
+    display: flex;
+}
+.shop-buyer-adress p{
+    margin: 0;
+}
+.shop-buyer-adress-red {
+    width: 10px;
+    height: 10px;
+    background-color: red;
+    border-radius: 65px;
+}
+.shop-buyer-adress-border {
+    height: 50%;
+    background-color: red;
+    width: 2px;
+    margin-left: 4px;
+}
+.shop-buyer-adress-left {
+    float: right;
+    padding-left: 10px;
+}
+.shop-buyer-adress-left {
+    margin-right: 10px;
+}

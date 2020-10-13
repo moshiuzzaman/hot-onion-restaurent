@@ -1,0 +1,22 @@
+ .cartItem {
+        background-color: rgb(243, 243, 243);
+        margin-bottom: 10px;
+        padding: 10px 20px;
+        border-radius: 12px;
+    }
+.cartItem p{
+    font-size: 12px;
+    font-weight: 500;
+}
+.cartPrice{
+    font-weight: bold;
+    color: red;
+    font-size: 20px;
+}
+
+.quantity-handel h5{
+    font-size: 13px;
+}
+.quantity-handel {
+    margin-top: 22px;
+  }

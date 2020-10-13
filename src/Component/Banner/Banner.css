@@ -1,0 +1,33 @@
+.banner {
+    background-image: url(../../image/bannerbackground.png);
+    color: brown;
+    height: 550px;
+    background-size: cover;
+    padding-top: 13%;
+} 
+.text-center{ 
+
+}
+.banner h1{
+    margin-bottom: 29px;
+    font-size: 50px;
+
+}
+input.border-0.banner-input-submit {
+    background: red;
+    border-radius: 50px;
+    color: white;
+    padding: 11px 31px;
+    outline: none;
+}
+.bannerSubscribe {
+    border-radius: 50px;
+    background-color: white;
+    display: inline-block;
+}
+input.border-0.banner-input-text {
+    border-radius: 50px;
+    outline: 1px solid white;
+    width: 400px;
+    padding: 0 22px;
+}

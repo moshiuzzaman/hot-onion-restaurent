@@ -1,0 +1,12 @@
+.count-handel {
+    border: 1px solid;
+    width: 124px;
+    text-align: center;
+    padding-top: 4px;
+    border-radius: 100px;
+}
+
+span.count-handel-icon {
+    padding: 6px 15px;
+    cursor: pointer;
+}

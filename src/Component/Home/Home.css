@@ -1,0 +1,16 @@
+.product-filter-menu button:hover{
+    background-color: white;
+}
+.product-filter-menu button{
+    background-color: white;
+    border: none;
+    outline: none;
+    margin: 0 15px;
+}
+.product-filter-menu button:focus{
+    border-bottom: 1px solid black;
+    outline: none;
+}
+.product-filter{
+    padding: 50px 0;
+}

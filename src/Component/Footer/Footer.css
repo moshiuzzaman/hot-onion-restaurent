@@ -1,0 +1,22 @@
+.footer {
+    background-color: black;
+    margin-top: 50px;
+}
+.footer li {
+    list-style: none;
+    cursor: pointer;
+    padding-bottom: 5px;
+}
+.footer-menu{
+    background-color: black;
+    height: 100px;
+    padding-top: 60px;
+}
+.footer-menu a {
+    color: white;
+    float: right;
+    padding: 0 11px;
+}
+.footer-menu a:hover{
+    color: rgb(216, 216, 216);
+}
